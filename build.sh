@@ -1,0 +1,1 @@
+g++ test_cpp_gpu.cpp -I/path/to/opencv/include/opencv4  -L/path/to/opencv/lib -lopencv_imgproc -lopencv_imgcodecs  -lopencv_highgui -lopencv_core -lopencv_calib3d -lopencv_cudawarping -lopencv_cudaimgproc
